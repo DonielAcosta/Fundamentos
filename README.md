@@ -4,34 +4,93 @@
 
 Repositorio de apuntes, ejercicios y proyectos del diplomado de fundamentos de programación en C++.
 
+---
+
+## Información del curso
+
+| Detalle | Valor |
+|---------|-------|
+| **Instructor** | Isaac Guerrero Mora |
+| **Idioma** | Español |
+| **Plataforma** | Udemy |
+| **Enfoque** | Análisis E-P-S, algoritmos, estructuras de control y programación modular |
+
+---
+
+## Contenido del curso
 
 ### Tipos de datos simples
-- Enteros, reales, flotantes, caracteres y booleanos.
-- Declaración, inicialización y procesos de asignación.
-- Lectura destructiva.
+- Enteros, reales, flotantes, caracteres y booleanos
+- Declaración, inicialización, asignación y lectura destructiva
 
 ### Estructuras de control
-- Estructuras secuenciales, de decisión y de repetición.
-- Uso simple, doble, anidado y apilado.
+- Secuenciales, de decisión y de repetición
+- Uso simple, doble, anidado y apilado
 
 ### Apuntadores
-- Concepto y uso de apuntadores (pointers).
-- Paso de parámetros por valor y por referencia.
+- Concepto y uso de apuntadores
+- Paso de parámetros por valor y por referencia
 
-### Ejecución de proyectos
-- Ejecución de proyectos en el IDE **Dev-C++**.
-
-### Arreglos
-- Arreglos unidimensionales (vectores) y bidimensionales (matrices).
-- Cadenas de caracteres.
+### Arreglos y cadenas
+- Vectores, matrices y cadenas de caracteres
 
 ### Programación modular
-- Concepto y aplicación lógica en el diagramado de problemas.
-- Procedimientos y funciones.
+- Procedimientos y funciones
+- Diagramado y descomposición de problemas
 
 ### Diseño de algoritmos
-- Análisis **E-P-S** (Entrada–Proceso–Salida).
-- Algoritmos generales y algoritmos específicos.
+- Análisis **E-P-S** (Entrada–Proceso–Salida)
+- Algoritmos generales y específicos
+
+---
+
+## Estructura del repositorio
+
+```
+Fundamentos/
+├── README.md
+├── EVALUACION_MODULO1.md      # Indicaciones de evaluación del Módulo 1
+├── Actividad 1 Programación -1.pdf
+└── clases/
+    ├── Programa0.cpp            # Bienvenida
+    ├── Programa1.cpp … Programa17.cpp
+    └── ...
+```
+
+---
+
+## Programas de práctica
+
+| Archivo | Tema |
+|---------|------|
+| `Programa0.cpp` | Mensaje de bienvenida |
+| `Programa1.cpp` | Lectura y escritura de un entero |
+| `Programa2.cpp` | Tipos de datos y operadores |
+| `Programa3.cpp` | Área de un triángulo (análisis E-P-S) |
+| `Programa4.cpp` | Intercambio de variables |
+| `Programa5.cpp` | Ordenar tres enteros (Recto 1) |
+| `Programa6.cpp` | Día del año con arreglo (sin `if`) |
+| `Programa7.cpp` | Día del año con decisiones apiladas |
+| `Programa8.cpp` | Menú de recetas de arepas (modularidad) |
+| `Programa9.cpp` | Ordenar tres enteros (intercambios) |
+| `Programa10.cpp` | Día del año con menú por mes |
+| `Programa11.cpp` | Ordenar tres enteros con casillas auxiliares |
+| `Programa12.cpp` | Día del año con variables por mes |
+| `Programa13.cpp` | Día del año sin estructuras de decisión |
+| `Programa14.cpp` | Área de triángulo por tres lados (Herón) |
+| `Programa15.cpp` | Pago por días trabajados |
+| `Programa16.cpp` | Promedio de notas (`for`) |
+| `Programa17.cpp` | Ternas equiláteras (`while`, `rand`) |
+
+### Compilar y ejecutar un programa
+
+```bash
+cd clases
+g++ Programa3.cpp -o Programa3
+./Programa3
+```
+
+En **Dev-C++**: abrir el archivo, compilar (F9) y ejecutar (F10).
 
 ---
 
@@ -41,33 +100,37 @@ Repositorio de apuntes, ejercicios y proyectos del diplomado de fundamentos de p
 
 | Herramienta | Descripción | Enlace |
 |-------------|-------------|--------|
-| **Dev-C++** | IDE con compilador integrado (MinGW). Recomendado en el curso para escribir, compilar y ejecutar proyectos. | [Descargar Dev-C++](https://sourceforge.net/projects/orwelldevcpp/) |
+| **Dev-C++** | IDE con compilador integrado (MinGW). Recomendado en el curso. | [Descargar Dev-C++](https://sourceforge.net/projects/orwelldevcpp/) |
 
-### Compilador en línea de comandos
+### Línea de comandos
 
-| Herramienta | Descripción | Ejemplo de uso |
-|-------------|-------------|----------------|
-| **g++** (GCC) | Compilador estándar de C++ en Linux. | `g++ main.cpp -o programa && ./programa` |
+| Herramienta | Descripción | Ejemplo |
+|-------------|-------------|---------|
+| **g++** (GCC) | Compilador estándar en Linux | `g++ archivo.cpp -o programa && ./programa` |
 
-### Compiladores y visualizadores en línea
+### En línea
 
 | Herramienta | Descripción | Enlace |
 |-------------|-------------|--------|
-| **Python Tutor** | Compilador y visualizador paso a paso para C y C++. Permite ver variables, apuntadores, pila de llamadas y estructuras de datos mientras el código se ejecuta. Útil para depurar y entender apuntadores y arreglos. | [pythontutor.com](https://pythontutor.com/) |
-| **OnlineGDB** | IDE en el navegador para compilar y ejecutar C++ sin instalar nada. | [onlinegdb.com](https://www.onlinegdb.com/online_c++_compiler) |
-| **Compiler Explorer (Godbolt)** | Compila C++ y muestra el código ensamblador generado. Útil para ver qué hace el compilador. | [godbolt.org](https://godbolt.org/) |
+| **Python Tutor** | Visualizador paso a paso para C/C++ | [pythontutor.com](https://pythontutor.com/) |
+| **OnlineGDB** | Compilador C++ en el navegador | [onlinegdb.com](https://www.onlinegdb.com/online_c++_compiler) |
+| **Compiler Explorer** | Código fuente y ensamblador generado | [godbolt.org](https://godbolt.org/) |
 
-> **Nota:** Para ejercicios del curso con apuntadores y memoria, [Python Tutor](https://pythontutor.com/) es especialmente útil porque visualiza cómo cambian las variables en cada paso de la ejecución.
+> Para ejercicios con apuntadores y memoria, [Python Tutor](https://pythontutor.com/) ayuda a ver cómo cambian las variables en cada paso.
 
 ---
 
-## Estructura del repositorio
+## Evaluación
 
-```
-Fundamentos/
-├── README.md
-└── ...
-```
+Las indicaciones del **Módulo 1** están en [EVALUACION_MODULO1.md](EVALUACION_MODULO1.md).
+
+**Fecha límite:** hasta el 10 de julio de 2026.
+
+Resumen:
+1. Verificar las 4 secciones del curso en plataforma
+2. Codificar el proyecto de evaluación
+3. Proponer un módulo nuevo al proyecto
+4. Presentar oralmente una parte del código y las estructuras usadas
 
 ---
 
