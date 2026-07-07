@@ -51,6 +51,7 @@ Fundamentos/
 ├── README.md
 ├── EVALUACION_MODULO1.md      # Indicaciones de evaluación del Módulo 1
 ├── Actividad 1 Programación -1.pdf
+├── curso/                     # Ejercicios de secuencialidad (Ejercicio01–15)
 └── clases/
     ├── Programa0.cpp            # Bienvenida
     ├── Programa1.cpp … Programa17.cpp
