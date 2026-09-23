@@ -1,0 +1,5 @@
+
+# Binarios locales
+movimiento_perros
+*.o
+output/
