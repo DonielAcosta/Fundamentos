@@ -1,0 +1,101 @@
+﻿  Metdos_MyFrom.cpp
+C:\Users\Isaac\Downloads\Juego_Lider (1)\Simulación - V1\Juego.hpp(20,7): warning C4101: 'y': variable local sin referencia
+  (compilando archivo de origen "Metdos_MyFrom.cpp")
+  
+C:\Users\Isaac\Downloads\Juego_Lider (1)\Simulación - V1\Juego.hpp(19,7): warning C4101: 'x': variable local sin referencia
+  (compilando archivo de origen "Metdos_MyFrom.cpp")
+  
+C:\Users\Isaac\Downloads\Juego_Lider (1)\Simulación - V1\Juego.hpp(38,54): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "Metdos_MyFrom.cpp")
+  
+C:\Users\Isaac\Downloads\Juego_Lider (1)\Simulación - V1\Juego.hpp(38,35): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "Metdos_MyFrom.cpp")
+  
+C:\Users\Isaac\Downloads\Juego_Lider (1)\Simulación - V1\Juego.hpp(38,17): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "Metdos_MyFrom.cpp")
+  
+C:\Users\Isaac\Downloads\Juego_Lider (1)\Simulación - V1\Juego.hpp(38,14): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "Metdos_MyFrom.cpp")
+  
+C:\Users\Isaac\Downloads\Juego_Lider (1)\Simulación - V1\Juego.hpp(49,44): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "Metdos_MyFrom.cpp")
+  
+C:\Users\Isaac\Downloads\Juego_Lider (1)\Simulación - V1\Juego.hpp(50,43): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "Metdos_MyFrom.cpp")
+  
+C:\Users\Isaac\Downloads\Juego_Lider (1)\Simulación - V1\Juego.hpp(56,32): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "Metdos_MyFrom.cpp")
+  
+C:\Users\Isaac\Downloads\Juego_Lider (1)\Simulación - V1\Juego.hpp(56,29): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "Metdos_MyFrom.cpp")
+  
+C:\Users\Isaac\Downloads\Juego_Lider (1)\Simulación - V1\Juego.hpp(77,32): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "Metdos_MyFrom.cpp")
+  
+C:\Users\Isaac\Downloads\Juego_Lider (1)\Simulación - V1\Juego.hpp(77,29): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "Metdos_MyFrom.cpp")
+  
+C:\Users\Isaac\Downloads\Juego_Lider (1)\Simulación - V1\Juego.hpp(128,24): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "Metdos_MyFrom.cpp")
+  
+C:\Users\Isaac\Downloads\Juego_Lider (1)\Simulación - V1\Juego.hpp(127,24): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "Metdos_MyFrom.cpp")
+  
+C:\Users\Isaac\Downloads\Juego_Lider (1)\Simulación - V1\Juego.hpp(126,24): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "Metdos_MyFrom.cpp")
+  
+C:\Users\Isaac\Downloads\Juego_Lider (1)\Simulación - V1\Juego.hpp(125,32): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "Metdos_MyFrom.cpp")
+  
+  MyForm.cpp
+C:\Users\Isaac\Downloads\Juego_Lider (1)\Simulación - V1\Juego.hpp(20,7): warning C4101: 'y': variable local sin referencia
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\Isaac\Downloads\Juego_Lider (1)\Simulación - V1\Juego.hpp(19,7): warning C4101: 'x': variable local sin referencia
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\Isaac\Downloads\Juego_Lider (1)\Simulación - V1\Juego.hpp(38,54): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\Isaac\Downloads\Juego_Lider (1)\Simulación - V1\Juego.hpp(38,35): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\Isaac\Downloads\Juego_Lider (1)\Simulación - V1\Juego.hpp(38,17): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\Isaac\Downloads\Juego_Lider (1)\Simulación - V1\Juego.hpp(38,14): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\Isaac\Downloads\Juego_Lider (1)\Simulación - V1\Juego.hpp(49,44): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\Isaac\Downloads\Juego_Lider (1)\Simulación - V1\Juego.hpp(50,43): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\Isaac\Downloads\Juego_Lider (1)\Simulación - V1\Juego.hpp(56,32): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\Isaac\Downloads\Juego_Lider (1)\Simulación - V1\Juego.hpp(56,29): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\Isaac\Downloads\Juego_Lider (1)\Simulación - V1\Juego.hpp(77,32): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\Isaac\Downloads\Juego_Lider (1)\Simulación - V1\Juego.hpp(77,29): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\Isaac\Downloads\Juego_Lider (1)\Simulación - V1\Juego.hpp(128,24): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\Isaac\Downloads\Juego_Lider (1)\Simulación - V1\Juego.hpp(127,24): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\Isaac\Downloads\Juego_Lider (1)\Simulación - V1\Juego.hpp(126,24): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\Isaac\Downloads\Juego_Lider (1)\Simulación - V1\Juego.hpp(125,32): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+  Generando código...
+  Metdos_MyFrom.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Juego_Lider.vcxproj -> C:\Users\Isaac\Downloads\Juego_Lider (1)\Simulación - V1\x64\Debug\Modelo_Predador_Presa.exe

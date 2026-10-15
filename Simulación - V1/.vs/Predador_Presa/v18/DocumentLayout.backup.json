@@ -1,0 +1,163 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Isaac\\Downloads\\Juego_Lider (1)\\Simulaci\u00F3n - V1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB5F2DBA-264F-492D-AC2D-6C6D2E227B09}|Juego_Lider.vcxproj|C:\\Users\\Isaac\\Downloads\\Juego_Lider (1)\\Simulaci\u00F3n - V1\\Juego.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BB5F2DBA-264F-492D-AC2D-6C6D2E227B09}|Juego_Lider.vcxproj|solutionrelative:Juego.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB5F2DBA-264F-492D-AC2D-6C6D2E227B09}|Juego_Lider.vcxproj|C:\\Users\\Isaac\\Downloads\\Juego_Lider (1)\\Simulaci\u00F3n - V1\\Animal.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BB5F2DBA-264F-492D-AC2D-6C6D2E227B09}|Juego_Lider.vcxproj|solutionrelative:Animal.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB5F2DBA-264F-492D-AC2D-6C6D2E227B09}|Juego_Lider.vcxproj|C:\\Users\\Isaac\\Downloads\\Juego_Lider (1)\\Simulaci\u00F3n - V1\\Animal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BB5F2DBA-264F-492D-AC2D-6C6D2E227B09}|Juego_Lider.vcxproj|solutionrelative:Animal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB5F2DBA-264F-492D-AC2D-6C6D2E227B09}|Juego_Lider.vcxproj|C:\\Users\\Isaac\\Downloads\\Juego_Lider (1)\\Simulaci\u00F3n - V1\\Metdos_MyFrom.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BB5F2DBA-264F-492D-AC2D-6C6D2E227B09}|Juego_Lider.vcxproj|solutionrelative:Metdos_MyFrom.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB5F2DBA-264F-492D-AC2D-6C6D2E227B09}|Juego_Lider.vcxproj|C:\\Users\\Isaac\\Downloads\\Juego_Lider (1)\\Simulaci\u00F3n - V1\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BB5F2DBA-264F-492D-AC2D-6C6D2E227B09}|Juego_Lider.vcxproj|solutionrelative:MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB5F2DBA-264F-492D-AC2D-6C6D2E227B09}|Juego_Lider.vcxproj|C:\\Users\\Isaac\\Downloads\\Juego_Lider (1)\\Simulaci\u00F3n - V1\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{BB5F2DBA-264F-492D-AC2D-6C6D2E227B09}|Juego_Lider.vcxproj|solutionrelative:MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB5F2DBA-264F-492D-AC2D-6C6D2E227B09}|Juego_Lider.vcxproj|C:\\Users\\Isaac\\Downloads\\Juego_Lider (1)\\Simulaci\u00F3n - V1\\Conejo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BB5F2DBA-264F-492D-AC2D-6C6D2E227B09}|Juego_Lider.vcxproj|solutionrelative:Conejo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB5F2DBA-264F-492D-AC2D-6C6D2E227B09}|Juego_Lider.vcxproj|C:\\Users\\Isaac\\Downloads\\Juego_Lider (1)\\Simulaci\u00F3n - V1\\Conejo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BB5F2DBA-264F-492D-AC2D-6C6D2E227B09}|Juego_Lider.vcxproj|solutionrelative:Conejo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Conejo.cpp",
+              "DocumentMoniker": "C:\\Users\\Isaac\\Downloads\\Juego_Lider (1)\\Simulaci\u00F3n - V1\\Conejo.cpp",
+              "RelativeDocumentMoniker": "Conejo.cpp",
+              "ToolTip": "C:\\Users\\Isaac\\Downloads\\Juego_Lider (1)\\Simulaci\u00F3n - V1\\Conejo.cpp",
+              "RelativeToolTip": "Conejo.cpp",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-08-05T01:12:05.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Animal.cpp",
+              "DocumentMoniker": "C:\\Users\\Isaac\\Downloads\\Juego_Lider (1)\\Simulaci\u00F3n - V1\\Animal.cpp",
+              "RelativeDocumentMoniker": "Animal.cpp",
+              "ToolTip": "C:\\Users\\Isaac\\Downloads\\Juego_Lider (1)\\Simulaci\u00F3n - V1\\Animal.cpp",
+              "RelativeToolTip": "Animal.cpp",
+              "ViewState": "AgIAACEAAAAAAAAAAAAmwCUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-08-12T01:46:09.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Metdos_MyFrom.cpp",
+              "DocumentMoniker": "C:\\Users\\Isaac\\Downloads\\Juego_Lider (1)\\Simulaci\u00F3n - V1\\Metdos_MyFrom.cpp",
+              "RelativeDocumentMoniker": "Metdos_MyFrom.cpp",
+              "ToolTip": "C:\\Users\\Isaac\\Downloads\\Juego_Lider (1)\\Simulaci\u00F3n - V1\\Metdos_MyFrom.cpp",
+              "RelativeToolTip": "Metdos_MyFrom.cpp",
+              "ViewState": "AgIAAAABAAAAAAAAAAAAAAoBAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-08-12T01:17:05.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MyForm.h",
+              "DocumentMoniker": "C:\\Users\\Isaac\\Downloads\\Juego_Lider (1)\\Simulaci\u00F3n - V1\\MyForm.h",
+              "RelativeDocumentMoniker": "MyForm.h",
+              "ToolTip": "C:\\Users\\Isaac\\Downloads\\Juego_Lider (1)\\Simulaci\u00F3n - V1\\MyForm.h",
+              "RelativeToolTip": "MyForm.h",
+              "ViewState": "AgIAACsAAAAAAAAAAAAIwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-08-12T00:35:03.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Juego.hpp",
+              "DocumentMoniker": "C:\\Users\\Isaac\\Downloads\\Juego_Lider (1)\\Simulaci\u00F3n - V1\\Juego.hpp",
+              "RelativeDocumentMoniker": "Juego.hpp",
+              "ToolTip": "C:\\Users\\Isaac\\Downloads\\Juego_Lider (1)\\Simulaci\u00F3n - V1\\Juego.hpp",
+              "RelativeToolTip": "Juego.hpp",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAAAGUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-08-11T01:49:46.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Animal.h",
+              "DocumentMoniker": "C:\\Users\\Isaac\\Downloads\\Juego_Lider (1)\\Simulaci\u00F3n - V1\\Animal.h",
+              "RelativeDocumentMoniker": "Animal.h",
+              "ToolTip": "C:\\Users\\Isaac\\Downloads\\Juego_Lider (1)\\Simulaci\u00F3n - V1\\Animal.h",
+              "RelativeToolTip": "Animal.h",
+              "ViewState": "AgIAACoAAAAAAAAAAAAkwDMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-08-11T01:50:46.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MyForm.h [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Isaac\\Downloads\\Juego_Lider (1)\\Simulaci\u00F3n - V1\\MyForm.h",
+              "RelativeDocumentMoniker": "MyForm.h",
+              "ToolTip": "C:\\Users\\Isaac\\Downloads\\Juego_Lider (1)\\Simulaci\u00F3n - V1\\MyForm.h [Dise\u00F1o]",
+              "RelativeToolTip": "MyForm.h [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-08-18T02:10:20.576Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Conejo.h",
+              "DocumentMoniker": "C:\\Users\\Isaac\\Downloads\\Juego_Lider (1)\\Simulaci\u00F3n - V1\\Conejo.h",
+              "RelativeDocumentMoniker": "Conejo.h",
+              "ToolTip": "C:\\Users\\Isaac\\Downloads\\Juego_Lider (1)\\Simulaci\u00F3n - V1\\Conejo.h",
+              "RelativeToolTip": "Conejo.h",
+              "ViewState": "AgIAAAcAAAAAAAAAAADwvwwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-08-05T01:11:58.439Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

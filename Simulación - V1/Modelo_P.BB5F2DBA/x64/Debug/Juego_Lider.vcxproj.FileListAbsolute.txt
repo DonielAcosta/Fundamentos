@@ -1,0 +1,6 @@
+C:\Users\Isaac\Downloads\Juego_Lider (1)\Simulación - Copy\Modelo_P.BB5F2DBA\x64\Debug\Juego_Lider.vcxproj.AssemblyReference.cache
+C:\Users\Isaac\Downloads\Juego_Lider (1)\Simulación - Copy\Modelo_P.BB5F2DBA\x64\Debug\JuegoLider.MyForm.resources
+C:\Users\Isaac\Downloads\Juego_Lider (1)\Simulación - Copy\Modelo_P.BB5F2DBA\x64\Debug\Juego_Lider.vcxproj.GenerateResource.cache
+C:\Users\Isaac\Downloads\Juego_Lider (1)\Simulación - V1\Modelo_P.BB5F2DBA\x64\Debug\Juego_Lider.vcxproj.AssemblyReference.cache
+C:\Users\Isaac\Downloads\Juego_Lider (1)\Simulación - V1\Modelo_P.BB5F2DBA\x64\Debug\JuegoLider.MyForm.resources
+C:\Users\Isaac\Downloads\Juego_Lider (1)\Simulación - V1\Modelo_P.BB5F2DBA\x64\Debug\Juego_Lider.vcxproj.GenerateResource.cache

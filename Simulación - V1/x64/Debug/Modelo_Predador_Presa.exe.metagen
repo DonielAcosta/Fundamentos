@@ -1,0 +1,42 @@
+  JuegoLider.MyForm.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly Modelo_Predador_Presa, Version=0.0.*, Culture=Todos los idiomas (todos los países): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Struct Animal: AutoLayout, AnsiClass, Class, Public, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Class JuegoLider.MyForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Windows.Forms.Button suma_conejos : Public
+    System.Windows.Forms.Button boton_conejos : Public
+    System.Windows.Forms.Button resta_conejos : Public
+    System.Windows.Forms.Button suma_TS : Public
+    System.Windows.Forms.Button boton_TS : Public
+    System.Windows.Forms.Button resta_TS : Public
+    System.Drawing.Bitmap Fondo_Espacio : Public
+    System.Drawing.Bitmap Fig_Conejo : Public
+    System.Drawing.Bitmap Fig_Fondo : Public
+    System.Drawing.Graphics g : Public
+    System.Drawing.BufferedGraphics bg : Public
+    Int32 Num_C : Public
+    Int32 tiempo : Public
+    Boolean iniciar : Public
+    Boolean ya : Public
+    Boolean terminamos : Public
+    Int32 miliseguntos : Public
+    Boolean centinela : Public
+    Juego* juego : Public
+    Direccion teclaPulsada : Public
