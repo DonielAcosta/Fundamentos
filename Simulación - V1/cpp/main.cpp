@@ -4,6 +4,7 @@
 #include <SDL_image.h>
 #include <SDL_ttf.h>
 
+#include <algorithm>
 #include <cstdio>
 #include <cstring>
 #include <ctime>
@@ -288,20 +289,21 @@ int main(int argc, char** argv) {
                      260, WIN_H - 36, COL_MUTED);
             drawButton(ren, fontBtn, btnFin);
         } else {
-            int artH = WIN_H - panelH - panelMargin * 2 - 8;
-            SDL_SetRenderDrawColor(ren, 210, 220, 205, 255);
+            // Fondo blanco como en FONDO1 (el PNG tiene transparencia en bordes)
+            SDL_SetRenderDrawColor(ren, 255, 255, 255, 255);
             SDL_RenderClear(ren);
-            SDL_Rect artDst{0, -10, WIN_W, artH + 40};
-            SDL_RenderCopy(ren, texFondo, nullptr, &artDst);
 
-            // Degradado hacia el panel
-            for (int i = 0; i < 70; ++i) {
-                Uint8 a = static_cast<Uint8>(200 * i / 70);
-                SDL_SetRenderDrawBlendMode(ren, SDL_BLENDMODE_BLEND);
-                SDL_SetRenderDrawColor(ren, 28, 42, 48, a);
-                SDL_RenderDrawLine(ren, 0, panelRect.y - 55 + i, WIN_W, panelRect.y - 55 + i);
-            }
-            SDL_SetRenderDrawBlendMode(ren, SDL_BLENDMODE_NONE);
+            // Ilustración centrada en el área sobre el panel, sin tintar ni deformar
+            int artAreaH = panelRect.y - 8;
+            int texFW = 0, texFH = 0;
+            SDL_QueryTexture(texFondo, nullptr, nullptr, &texFW, &texFH);
+            float scale = std::min(static_cast<float>(WIN_W) / texFW,
+                                   static_cast<float>(artAreaH) / texFH);
+            int dw = static_cast<int>(texFW * scale);
+            int dh = static_cast<int>(texFH * scale);
+            SDL_Rect artDst{(WIN_W - dw) / 2, (artAreaH - dh) / 2, dw, dh};
+            SDL_SetTextureBlendMode(texFondo, SDL_BLENDMODE_BLEND);
+            SDL_RenderCopy(ren, texFondo, nullptr, &artDst);
 
             fillRect(ren, panelRect, COL_PANEL);
             drawRect(ren, panelRect, COL_PANEL_EDGE);
